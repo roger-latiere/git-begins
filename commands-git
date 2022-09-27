@@ -8,3 +8,7 @@ git push origin main
 
 # commande GIT pour "pull":
 git pull
+
+# commandes pour créer une branche et s'y déplacer:
+git branch nom_de_la_branche
+git checkout nom_de_la_branche
