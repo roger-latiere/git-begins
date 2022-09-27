@@ -1,16 +1,1 @@
-# commande GIT pour cloner un repository :
-clone https://github.com/roger-latiere/git-begins
-
-# les 3 commandes push dans l'ordre (les deux premières amènent à "push" :
-git add nom_de_fichier
-git commit -m "détailler la signification de l'ajout/modification"
-git push origin main
-
-# commande GIT pour "pull":
-git pull
-
-# commande pour créer une branche :
-git branch nom_de_la_branche
-
-# commande pour changer de branche :
-git checkout nom_de_la_branche
+something else
