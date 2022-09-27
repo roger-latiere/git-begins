@@ -5,3 +5,6 @@ clone https://github.com/roger-latiere/git-begins
 git add nom_de_fichier
 git commit -m "détailler la signification de l'ajout/modification"
 git push origin main
+
+# commande GIT pour "pull":
+git pull
