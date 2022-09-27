@@ -1,0 +1,7 @@
+# commande GIT pour cloner un repository :
+clone https://github.com/roger-latiere/git-begins
+
+# les 3 commandes push dans l'ordre (les deux prmières amènent à "push" :
+git add nom_de_fichier
+git commit "détailler la signification de l'ajout/modification"
+git push origin main
